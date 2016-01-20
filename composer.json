@@ -9,7 +9,7 @@
     ],
     "preferred-install": "master",
     "require": {
-        "vendor/bframework": "master"
+        "vendor/bframework": "dev-master"
     },
     "repositories": [
         {
