@@ -6,16 +6,5 @@
             "name": "Rafael Sandim",
             "email": "rafael.sandim@before.com.br"
         }
-    ],
-    "minimum-stability": "stable", 
-    "require": {
-        "php": ">=5.4.0",
-        "vendor/bframework": "1.0.1"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/beforeti/bframework.git"
-        }
     ]
 }
