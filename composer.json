@@ -7,9 +7,9 @@
             "email": "rafael.sandim@before.com.br"
         }
     ],
-    "preferred-install": "dev-master",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable", 
     "require": {
+        "php": ">=5.4.0",
         "vendor/bframework": "master"
     },
     "repositories": [
