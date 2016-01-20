@@ -7,7 +7,9 @@
             "email": "rafael.sandim@before.com.br"
         }
     ],
-    "require": {},
+    "require": {
+        "vendor/bframework": "master"
+    },
     "repositories": [
         {
             "type": "vcs",
