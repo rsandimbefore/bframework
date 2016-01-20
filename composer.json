@@ -1,0 +1,11 @@
+{
+    "name": "beforeti/bframework",
+    "description": "Framework para os projetos SUN e Syscor",
+    "authors": [
+        {
+            "name": "Rafael Sandim",
+            "email": "rafael.sandim@before.com.br"
+        }
+    ],
+    "require": {}
+}
