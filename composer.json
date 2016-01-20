@@ -10,7 +10,7 @@
     "minimum-stability": "stable", 
     "require": {
         "php": ">=5.4.0",
-        "vendor/bframework": "1.0.0"
+        "vendor/bframework": "1.0.1"
     },
     "repositories": [
         {
