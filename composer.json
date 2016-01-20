@@ -8,7 +8,7 @@
         }
     ],
     "preferred-install": "dev-master",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "vendor/bframework": "master"
     },
